@@ -1,0 +1,45 @@
+Admin
+--Login
+--Add Dist,Taluk
+--Add GP based taluk
+Code based generate login Id,Password-using SMTP
+   mail login details
+--Add Village to GP
+
+GP
+--Login(Id,Password-Mail)
+--Add Anganwadi based on village
+--Add Staff to Anganwadi-Staff Type(Teaching,Care Taker)
+Code based generate login Id,Password-using SMTP
+   mail login details
+--Add Amount to Anganwadi Wallet
+--View Anganwadi transaction details(Food Items)
+--View Nutrition/Medicine to women based Anganwadi
+--View Baby Vaccine based Anganwadi
+--View Feedback based Anganwadi
+--View Complaints based Anganwadi
+
+Anganwadi-Teacher
+--Login(Id,Password)
+--Add Children Count based on anganwadi
+--View Anganwadi Wallet Detail
+--Add food item - afternoon lunch-childs
+  reduce Amount from Anganwadi Wallet 
+--View Anganwadi transaction details
+
+Anganwadi-Care Taker
+--Login(Id,Password)
+--Add Women(basic details-WId,Name,Age,mobileno,address)
+--Add/View Nutrition/Medicine to women-status-Provide
+--Add baby based on women(Id,WId,gender,age)
+--Add/View baby vaccine details-status-Provide
+
+Women
+--Login(Id,Password)
+--View Nutrition/Medicine--Status-Received
+--View baby vaccine details-status-Received
+--Post Feedback
+--Post Complaints
+
+
+
