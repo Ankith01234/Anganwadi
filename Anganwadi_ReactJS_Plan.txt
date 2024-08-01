@@ -7,7 +7,7 @@ Code based generate login Id,Password-using SMTP
 --Add Village to GP
 
 GP
---Login(Id,Password-Mail)
+---Login(Id,Password-Mail)
 --Add Anganwadi based on village
 --Add Staff to Anganwadi-Staff Type(Teaching,Care Taker)
 Code based generate login Id,Password-using SMTP
